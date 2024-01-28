@@ -12,4 +12,5 @@
 ### Basic python programming
 <ol>
   <li><a href="https://github.com/amohan601/LearningMLAndPython/blob/main/pythonprograms/addtwonumbers.py">Add two numbers</a></li>
+  <li><a href="https://github.com/amohan601/LearningMLAndPython/blob/main/pythonprograms/ArgumentParserExample.py">Argument parser in python</a></li>
 </ol>  
