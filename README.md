@@ -13,8 +13,9 @@
 <ol>
   <li><a href="https://github.com/amohan601/LearningMLAndPython/blob/main/pythonprograms/addtwonumbers.py">Add two numbers</a></li>
   <li><a href="https://github.com/amohan601/LearningMLAndPython/blob/main/pythonprograms/ArgumentParserExample.py">Argument parser in python</a></
+</ol>  
+
+### list examples in python
   <ol>
-    <h3>list examples in python</h3>
     <li><a href="https://github.com/amohan601/LearningMLAndPython/blob/main/pythonprograms/SwapFirstAndLastInList.py">List</a></li>
   </ol>
-</ol>  
