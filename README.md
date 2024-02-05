@@ -12,10 +12,10 @@
 ### Basic python programming
 <ol>
   <li><a href="https://github.com/amohan601/LearningMLAndPython/blob/main/pythonprograms/addtwonumbers.py">Add two numbers</a></li>
-  <li><a href="https://github.com/amohan601/LearningMLAndPython/blob/main/pythonprograms/ArgumentParserExample.py">Argument parser in python</a></
+  <li><a href="https://github.com/amohan601/LearningMLAndPython/blob/main/pythonprograms/ArgumentParserExample.py">Argument parser in python</a>
 </ol>  
 
 ### list examples in python
   <ol>
-    <li><a href="https://github.com/amohan601/LearningMLAndPython/blob/main/pythonprograms/SwapFirstAndLastInList.py">List</a></li>
+    <li><a href="https://github.com/amohan601/LearningMLAndPython/blob/main/pythonprograms/SwapFirstAndLastInList.py">Swap first and Last in a list</a></li>
   </ol>
