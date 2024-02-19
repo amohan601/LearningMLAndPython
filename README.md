@@ -7,7 +7,7 @@
   <li><a href="./ml//datapreparation-housing-price.ipynb">Data preparation techniques on housing price dataset</a></li>
   <li><a href="./ml//datapreparation-titanic.ipynb">Data preparation techniques on titanic dataset</a></li>
   <li><a href="./ml/Exploratory-data-analysis.ipynb">Exploratory data analysis of datasets</a></li>
-  <li><a href="./ml/Exploratory-data-analysis.ipynb">Classification problem - Winedataset Quality prediction(LogisticRegression,XGBClassifier,SVM)</a></li>
+  <li><a href="./ml/WineDataSetQualityPrediction.ipynb">Classification problem - Winedataset Quality prediction(LogisticRegression,XGBClassifier,SVM)</a></li>
 </ol>  
 
 ### Basic python programming
