@@ -19,4 +19,5 @@
 ### list examples in python
   <ol>
     <li><a href="./pythonprograms/SwapFirstAndLastInList.py">Swap first and Last in a list</a></li>
+    <li><a href="./pythonprograms/RemoveElementInPlaceUnique.py">Remove duplicates in sorted array (in-place)</a></li>
   </ol>
